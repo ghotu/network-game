@@ -1,0 +1,12 @@
+C:\Ashwani\ConsoleApplication1\ConsoleApplication1\CommandClient\obj\Debug\CommandClient.csprojResolveAssemblyReference.cache
+C:\Ashwani\ConsoleApplication1\ConsoleApplication1\CommandClient\bin\Debug\CommandClient.dll
+C:\Ashwani\ConsoleApplication1\ConsoleApplication1\CommandClient\bin\Debug\CommandClient.pdb
+C:\Ashwani\ConsoleApplication1\ConsoleApplication1\CommandClient\obj\Debug\CommandClient.dll
+C:\Ashwani\ConsoleApplication1\ConsoleApplication1\CommandClient\obj\Debug\CommandClient.pdb
+C:\Ashwani\Mani\CommandClient\bin\Debug\CommandClient.dll
+C:\Ashwani\Mani\CommandClient\bin\Debug\CommandClient.pdb
+C:\Ashwani\Mani\CommandClient\obj\Debug\CommandClient.dll
+C:\Ashwani\Mani\CommandClient\obj\Debug\CommandClient.pdb
+C:\Ashwani\Mani\CommandClient\obj\Debug\CommandClient.csprojResolveAssemblyReference.cache
+C:\Ashwani\Mani\CommandClient\bin\Debug\Newtonsoft.Json.dll
+C:\Ashwani\Mani\CommandClient\bin\Debug\Newtonsoft.Json.xml

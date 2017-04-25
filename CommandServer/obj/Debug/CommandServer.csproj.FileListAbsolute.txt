@@ -1,0 +1,17 @@
+D:\TestProjects\ConsoleApplication1\CommandServer\bin\Debug\CommandServer.dll
+D:\TestProjects\ConsoleApplication1\CommandServer\bin\Debug\CommandServer.pdb
+D:\TestProjects\ConsoleApplication1\CommandServer\obj\Debug\CommandServer.csprojResolveAssemblyReference.cache
+D:\TestProjects\ConsoleApplication1\CommandServer\obj\Debug\CommandServer.dll
+D:\TestProjects\ConsoleApplication1\CommandServer\obj\Debug\CommandServer.pdb
+C:\Ashwani\ConsoleApplication1\ConsoleApplication1\CommandServer\bin\Debug\CommandServer.pdb
+C:\Ashwani\ConsoleApplication1\ConsoleApplication1\CommandServer\obj\Debug\CommandServer.pdb
+C:\Ashwani\ConsoleApplication1\ConsoleApplication1\CommandServer\bin\Debug\CommandServer.exe
+C:\Ashwani\ConsoleApplication1\ConsoleApplication1\CommandServer\obj\Debug\CommandServer.exe
+C:\Ashwani\ConsoleApplication1\ConsoleApplication1\CommandServer\obj\Debug\CommandServer.csprojResolveAssemblyReference.cache
+C:\Ashwani\Mani\CommandServer\obj\Debug\CommandServer.exe
+C:\Ashwani\Mani\CommandServer\obj\Debug\CommandServer.pdb
+C:\Ashwani\Mani\CommandServer\obj\Debug\CommandServer.csprojResolveAssemblyReference.cache
+C:\Ashwani\Mani\CommandServer\bin\Debug\CommandServer.exe
+C:\Ashwani\Mani\CommandServer\bin\Debug\CommandServer.pdb
+C:\Ashwani\Mani\CommandServer\bin\Debug\Newtonsoft.Json.dll
+C:\Ashwani\Mani\CommandServer\bin\Debug\Newtonsoft.Json.xml
